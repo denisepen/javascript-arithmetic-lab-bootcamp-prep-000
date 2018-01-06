@@ -20,10 +20,9 @@ function divide (a,b){
   var quotient=a/b
 return quotient
 }
+var x=5
 function inc (){
-  var x=5
   x++
-
   return x
 }
 function dec(){
