@@ -20,15 +20,14 @@ function divide (a,b){
   var quotient=a/b
 return quotient
 }
-var x=5
 function inc (){
-  x++
+  var x=5 
+  x += 1
   return x
 }
 function dec(){
   var y=5
-  y--
-  
+  y -= 1
   return y
 }
 function makeInt(){
