@@ -10,4 +10,9 @@ function subtract (a,b){
   b=3
 return diff  
 }
-function
+function mult (a,b){
+  var product=a*b
+  a=2
+  b=3 
+return product
+}
