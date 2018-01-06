@@ -22,6 +22,6 @@ return quotient
 }
 function inc(){
   var number=5
-  number+=1
+  number += 1
   return number
 }
