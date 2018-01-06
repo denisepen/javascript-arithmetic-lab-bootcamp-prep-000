@@ -20,7 +20,7 @@ function divide (a,b){
   var quotient=a/b
 return quotient
 }
-function inc(){
+function inc (){
   var number=5
   number += 1
   return number
