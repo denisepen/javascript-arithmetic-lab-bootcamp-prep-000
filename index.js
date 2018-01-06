@@ -30,3 +30,8 @@ function dec(){
   n --
   return n
 }
+function makeInt(){
+  var n="25"
+  parseInt(n)
+  return n
+}
