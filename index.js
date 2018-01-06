@@ -27,6 +27,6 @@ function inc (){
 }
 function dec(){
   var n=10
-  n -= 10
+  n -= 1
   return n
 }
