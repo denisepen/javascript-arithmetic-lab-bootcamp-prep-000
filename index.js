@@ -21,7 +21,7 @@ function divide (a,b){
 return quotient
 }
 function inc (){
-  var number=5
-  number += 1
-  return number
+  var n=5
+  n += 1
+  return n
 }
