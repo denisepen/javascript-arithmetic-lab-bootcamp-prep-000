@@ -34,6 +34,5 @@ function dec(){
 }
 function makeInt(){
   var n=parseInt("25.75")
-    }
   return n
 }
