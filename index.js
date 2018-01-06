@@ -20,11 +20,8 @@ function divide (a,b){
   var quotient=a/b
 return quotient
 }
-function inc (){
-  var x=5 
-  x += 1
-  return x
-}
+function inc ()
+var x=5
 function dec(){
   var y=5
   y -= 1
