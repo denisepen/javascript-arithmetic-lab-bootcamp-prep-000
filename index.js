@@ -22,11 +22,11 @@ return quotient
 }
 function inc (){
   var n=5
-  n += 1
+  n ++
   return n
 }
 function dec(){
   var n=10
-  n -= 1
+  n --
   return n
 }
