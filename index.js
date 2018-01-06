@@ -20,3 +20,8 @@ function divide (a,b){
   var quotient=a/b
 return quotient
 }
+function inc(){
+  var number=5
+  number++
+  return number
+}
