@@ -21,12 +21,14 @@ function divide (a,b){
 return quotient
 }
 function inc (){
-  var n=n++
+  var n=5
+  n++
 
   return n
 }
 function dec(){
-  var n=n--
+  var n=5
+  n--
   
   return n
 }
