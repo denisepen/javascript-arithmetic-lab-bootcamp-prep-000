@@ -36,4 +36,4 @@ function makeInt(){
   return n
   if(parseInt=0){
     return NaN
-}
+}}
