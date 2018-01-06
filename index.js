@@ -32,7 +32,7 @@ function dec(){
   return y
 }
 function makeInt(){
-  var n=parseInt("25.75", base)
+  var n=parseInt("25.75", 10)
   return n
   if(parseInt=0){
     return NaN
