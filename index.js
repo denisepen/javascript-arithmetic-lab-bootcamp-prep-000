@@ -21,19 +21,22 @@ function divide (a,b){
 return quotient
 }
 function inc (){
-  var n=5
-  n++
+  var x=5
+  x++
 
-  return n
+  return x
 }
 function dec(){
-  var n=5
-  n--
+  var y=5
+  y--
   
-  return n
+  return y
 }
 function makeInt(){
   var n="25.75"
+  if (n="nonsense"){
+    return NaN
+  }
   parseInt(n)
   return n
 }
