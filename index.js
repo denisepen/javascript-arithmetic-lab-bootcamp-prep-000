@@ -31,7 +31,7 @@ function dec(){
   return n
 }
 function makeInt(){
-  var n="25"
+  var n="25.75"
   parseInt(n)
   return n
 }
