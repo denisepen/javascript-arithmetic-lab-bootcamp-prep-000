@@ -10,4 +10,5 @@ function subtract (a,b){
   b=3
 return diff  
 }
-function 
+function mult (a,b){
+  
