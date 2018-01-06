@@ -22,4 +22,3 @@ function divide (a,b){
   b=5
 return quotiont
 }
-}
