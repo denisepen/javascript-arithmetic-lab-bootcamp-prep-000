@@ -21,16 +21,16 @@ function divide (a,b){
 return quotient
 }
 function inc (){
-  var n=5
-  n ++
+  var n=n++
+
   return n
 }
 function dec(){
-  var n=10
-  n --
+  var n=n--
+  
   return n
 }
-function makeInt(){
+function makeInt("n",10){
   var n="25.75"
   parseInt(n)
   return n
