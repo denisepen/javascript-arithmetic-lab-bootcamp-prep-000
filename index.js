@@ -20,5 +20,5 @@ function divide (a,b){
   var quotient=a/b
   a=10
   b=5
-return quotiont
+return quotient
 }
