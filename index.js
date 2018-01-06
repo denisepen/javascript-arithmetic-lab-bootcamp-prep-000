@@ -32,7 +32,7 @@ function dec(){
   
   return n
 }
-function makeInt("n",10){
+function makeInt(){
   var n="25.75"
   parseInt(n)
   return n
